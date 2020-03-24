@@ -775,10 +775,3 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.24-04.06.42:716][820]LogFileHelpers: Saving map 'PuzzMobileCopy' took 0.263
 [2020.03.24-04.06.42:727][820]AssetCheck: New page: Asset Save: PuzzMobileCopy
 [2020.03.24-04.06.42:727][820]LogContentValidation: Display: Validating World /Game/PuzzleBP/Maps/PuzzMobileCopy.PuzzMobileCopy
-[2020.03.24-04.09.49:624][355]LogSlate: Window 'Pick Parent Class' being destroyed
-[2020.03.24-04.09.53:989][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
-[2020.03.24-04.09.55:281][675]LogSlate: Window 'Save Content' being destroyed
-[2020.03.24-04.09.55:315][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FunBP" FILE="../../../../../../D drive for Heagney/UnrealProjects/KnightsHeagney/Content/Blueprints/FunBP.uasset" SILENT=true
-[2020.03.24-04.09.55:320][675]LogSavePackage: Moving '../../../../../../D drive for Heagney/UnrealProjects/KnightsHeagney/Saved/FunBPB3AB4D214F963E0FAF6EDFB1E53FAF2E.tmp' to '../../../../../../D drive for Heagney/UnrealProjects/KnightsHeagney/Content/Blueprints/FunBP.uasset'
-[2020.03.24-04.09.55:335][675]AssetCheck: New page: Asset Save: FunBP
-[2020.03.24-04.09.55:335][675]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FunBP.FunBP
