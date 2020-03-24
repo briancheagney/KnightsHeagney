@@ -732,3 +732,46 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.24-03.44.56:949][432]LogRenderer: Reallocating scene render targets to support 1060x616 Format 10 NumSamples 1 (Frame:601).
 [2020.03.24-03.44.56:999][433]LogRenderer: Reallocating scene render targets to support 1064x616 Format 10 NumSamples 1 (Frame:603).
 [2020.03.24-03.58.44:283][862]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.03.24-04.06.28:011][974]LogEditorViewport: Clicking on Actor (LMB): Tile00_C (Tile144)
+[2020.03.24-04.06.29:128][ 48]Cmd: DELETE
+[2020.03.24-04.06.29:128][ 48]Cmd: ACTOR DELETE
+[2020.03.24-04.06.29:137][ 48]LogEditorActor: Deleted Actor: Tile00_C
+[2020.03.24-04.06.29:160][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.03.24-04.06.29:161][ 48]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.03.24-04.06.29:670][ 89]LogEditorViewport: Clicking on Actor (LMB): Tile00_C (Tile141)
+[2020.03.24-04.06.29:886][101]Cmd: DELETE
+[2020.03.24-04.06.29:887][101]Cmd: ACTOR DELETE
+[2020.03.24-04.06.29:893][101]LogEditorActor: Deleted Actor: Tile00_C
+[2020.03.24-04.06.29:915][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.03.24-04.06.29:916][101]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.03.24-04.06.30:621][158]LogEditorViewport: Clicking on Actor (LMB): Tile00_C (Tile42)
+[2020.03.24-04.06.30:842][171]Cmd: DELETE
+[2020.03.24-04.06.30:842][171]Cmd: ACTOR DELETE
+[2020.03.24-04.06.30:849][171]LogEditorActor: Deleted Actor: Tile00_C
+[2020.03.24-04.06.30:870][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.03.24-04.06.30:871][171]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.03.24-04.06.31:286][205]LogEditorViewport: Clicking on Actor (LMB): Tile00_C (Tile142)
+[2020.03.24-04.06.31:444][214]Cmd: DELETE
+[2020.03.24-04.06.31:444][214]Cmd: ACTOR DELETE
+[2020.03.24-04.06.31:451][214]LogEditorActor: Deleted Actor: Tile00_C
+[2020.03.24-04.06.31:475][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.03.24-04.06.31:476][214]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.03.24-04.06.31:830][243]LogEditorViewport: Clicking on Actor (LMB): Tile00_C (Tile143)
+[2020.03.24-04.06.32:001][253]Cmd: DELETE
+[2020.03.24-04.06.32:001][253]Cmd: ACTOR DELETE
+[2020.03.24-04.06.32:007][253]LogEditorActor: Deleted Actor: Tile00_C
+[2020.03.24-04.06.32:028][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.03.24-04.06.32:029][253]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.03.24-04.06.32:355][281]LogEditorViewport: Clicking on Actor (LMB): Tile00_C (Tile140)
+[2020.03.24-04.06.32:516][291]Cmd: DELETE
+[2020.03.24-04.06.32:516][291]Cmd: ACTOR DELETE
+[2020.03.24-04.06.32:522][291]LogEditorActor: Deleted Actor: Tile00_C
+[2020.03.24-04.06.32:543][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.03.24-04.06.32:544][291]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.03.24-04.06.38:883][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.24-04.06.42:421][820]LogSlate: Window 'Save Content' being destroyed
+[2020.03.24-04.06.42:478][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.03.24-04.06.42:706][820]LogSavePackage: Moving '../../../../../../D drive for Heagney/UnrealProjects/KnightsHeagney/Saved/PuzzMobileCopy5CB44B694B0F405FD03ACD958572BE05.tmp' to '../../../../../../D drive for Heagney/UnrealProjects/KnightsHeagney/Content/PuzzleBP/Maps/PuzzMobileCopy.umap'
+[2020.03.24-04.06.42:716][820]LogFileHelpers: Saving map 'PuzzMobileCopy' took 0.263
+[2020.03.24-04.06.42:727][820]AssetCheck: New page: Asset Save: PuzzMobileCopy
+[2020.03.24-04.06.42:727][820]LogContentValidation: Display: Validating World /Game/PuzzleBP/Maps/PuzzMobileCopy.PuzzMobileCopy
